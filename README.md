@@ -1,2 +1,1 @@
-# P013ESmagaza
-Projenin tamamı ve son hali
+# P013EStore
